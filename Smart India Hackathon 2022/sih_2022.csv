@@ -1,0 +1,564 @@
+Organization,Problem Statement Title,Category,PS Number,Submitted Idea(s) Count,Domain Bucket
+White Hour Solutions,Hosting a blockchain code on to a cloud network in order to create a prototype app in the Healthcare sector,Software,SJ572,60,MedTech / BioTech / HealthTech
+"Department of Space, Indian Space Research Organisation (ISRO).",Runtime remote video quality assessment,Software,SS584,5,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Video metadata generation & classification,Software,SS585,26,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",DISCOVER,Software,SS586,21,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",HERITAGE Identification of monuments using Deep Learning Techniques,Software,SS588,40,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Weather Forecast and its Visualization using Augmented Reality (AR): Mobile App,Software,SS589,48,Disaster Management
+"Department of Space, Indian Space Research Organisation (ISRO).",Pseudo height assignment to INSAT 3D/3DR Cloud data and its 3D visualization on Web,Software,SS590,3,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Deep Learning based Cyclone Intensity estimation using INSAT-3D IR imagery,Software,SS591,66,Disaster Management
+"Department of Space, Indian Space Research Organisation (ISRO).",Seamless indoor-outdoor navigation,Software,SS592,23,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).","Processing, visualization and application development of raw GNSS data on Android Smartphones",Software,SS593,6,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Multispectral satellite image dehazing,Software,SS594,19,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Android application for the imaging possibilities by an Earth observing satellite,Software,SS595,9,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Water Quality from Mobile captured and Google earth images,Software,SS596,53,Disaster Management
+"Department of Space, Indian Space Research Organisation (ISRO).",Flood inundation probability mapping,Software,SS597,24,Disaster Management
+"Department of Space, Indian Space Research Organisation (ISRO).",Natural Language search tool for Web GIS,Software,SS598,6,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Producing Super Resolution Digital Elevation Models from low resolution DEMs,Software,SS600,5,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Software toolset for storage browsing and permission based access to geospatial data using blockchain,Software,SS604,38,Blockchain & Cybersecurity
+"Department of Space, Indian Space Research Organisation (ISRO).",Fully automated seamless on-the-fly mosaicking of satellite images,Software,SS607,7,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Visual Question and Answering with Satellite Images,Software,SS610,16,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Prediction of TEC variations with Artificial Intelligence using Space Weather Data as input,Software,SS612,10,Disaster Management
+"Department of Space, Indian Space Research Organisation (ISRO).",High accuracy positioning on mobile or automotive NavIC/GNSS receivers for road lane navigation,Software,SS613,3,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Symbol Rate/Bandwidth Estimation,Software,SS614,6,Miscellaneous
+"Department of Space, Indian Space Research Organisation (ISRO).",Real-Time Adaptive Speech Mixing and Audio-video synchronization,Software,SS615,3,Miscellaneous
+MathWorks,Traffic Light Negotiation and Perception-Based Detection,Software,AG676,45,Smart Vehicles
+All India Council for Technical Education (AICTE).,AI based Chatbot to answer FAQs,Software,DR702,125,Smart Automation
+All India Council for Technical Education (AICTE).,Bulk email & SMS service,Software,DR703,56,Smart Education
+All India Council for Technical Education (AICTE).,Energy Conservation with modern technology,Software,DR704,86,Renewable / Sustainable Energy
+All India Council for Technical Education (AICTE).,Graphical Password Authentication,Software,DR705,125,Blockchain & Cybersecurity
+All India Council for Technical Education (AICTE).,Network Traffic Analyzer,Software,DR706,56,Blockchain & Cybersecurity
+All India Council for Technical Education (AICTE).,Software for easing government procurements,Software,DR707,37,Smart Automation
+All India Council for Technical Education (AICTE).,AI based tool to get information about 5 good institutes based on AISHE,Software,DR708,33,Smart Education
+All India Council for Technical Education (AICTE).,"AICTE Event/Activity (Workshops, Talks, FDP, Meeting etc) management system.",Software,DR709,54,Smart Education
+All India Council for Technical Education (AICTE).,Career dendrogram,Software,DR710,61,Smart Education
+All India Council for Technical Education (AICTE).,Lack of information about Academic Activities in single platform,Software,DR711,94,Smart Education
+All India Council for Technical Education (AICTE).,Lack of sustainability in appointment of Faculty in Higher Educational Institutions and Colleges,Software,DR712,52,Smart Education
+All India Council for Technical Education (AICTE).,Portal to know about various National and International scholarships,Software,DR713,125,Smart Education
+All India Council for Technical Education (AICTE).,Prediction of Admission & Jobs in Engineering & Technology with respect to demographic locations,Software,DR714,40,Smart Education
+All India Council for Technical Education (AICTE).,To develop in integrated and robust online platform for the researchers providing the information and relevant details about national/international research grants,Software,DR715,31,Smart Education
+All India Council for Technical Education (AICTE).,Integrated information platform for information about Indian Universities,Software,DR716,91,Smart Education
+All India Council for Technical Education (AICTE).,Integrated annual academic calendar for all the Indian universities,Software,DR717,28,Smart Education
+All India Council for Technical Education (AICTE).,Online integrated platform for projects taken up by the students of various universities/colleges.,Software,DR718,81,Smart Education
+All India Council for Technical Education (AICTE).,Inter-linked platform for Campus Placement in Higher educational Institutions of India,Software,DR719,72,Smart Education
+All India Council for Technical Education (AICTE).,"Interlinked platform for School education, Higher education and Technical education in India",Software,DR720,30,Smart Education
+All India Council for Technical Education (AICTE).,To develop a Mobile App for AICTE,Software,DR721,75,Smart Education
+All India Council for Technical Education (AICTE).,Attractiveness and User Friendliness of AICTE Website,Software,DR722,33,Smart Education
+All India Council for Technical Education (AICTE).,Centralized grievance system portal,Software,DR723,17,Smart Education
+All India Council for Technical Education (AICTE).,AICTE TASK Management Mobile Application,Software,DR724,21,Smart Education
+All India Council for Technical Education (AICTE).,Geotagging of all educational institutions integrated with virtual tour on Bharat Map so that any students/parents can visit any part of the country on map and take virtual tour along with facilities/courses available across the country.,Software,DR725,31,Smart Education
+All India Council for Technical Education (AICTE).,One Point Student Verification through Mobile Application,Software,DR726,44,Smart Education
+All India Council for Technical Education (AICTE).,One Point Student/Faculty Details Verification through Functional Application Software,Software,DR727,27,Smart Education
+All India Council for Technical Education (AICTE).,Prediction of Admission & Jobs in Engineering & Technology /Management/Pharmacy with respect to demographic locations,Software,DR728,28,Smart Education
+All India Council for Technical Education (AICTE).,Security Management System,Software,DR729,51,Smart Education
+All India Council for Technical Education (AICTE).,Standard Course Curriculum Design for all the Universities across India,Software,DR730,18,Smart Education
+"Ministry of Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy (AYUSH).",Mobile Application for Diet Recall,Software,DK731,77,MedTech / BioTech / HealthTech
+"Ministry of Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy (AYUSH).",Portable decoction of (Kashaya) Making Machine,Hardware,DK732,66,MedTech / BioTech / HealthTech
+"Ministry of Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy (AYUSH).",Virtual reality based solution for training medical students,Software,DK733,24,MedTech / BioTech / HealthTech
+"Ministry of Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy (AYUSH).",Centralized thesis repository (MD/PHD) Repository,Software,DK734,14,Smart Education
+"Ministry of Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy (AYUSH).",App for Ayush Services Availability,Software,DK735,64,MedTech / BioTech / HealthTech
+"Ministry of Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy (AYUSH).",Smart Watch with vital record and lifestyle recommendation with mobile application,Hardware,DK736,50,MedTech / BioTech / HealthTech
+Coal India Limited,Development of VR / AR (Virtual Reality / Augmented Reality) based application to train and up-skill the workforce involved in safely executing high risk tasks and problem solving key operational challenges in Coal mining industry.,Software,NC737,19,Miscellaneous
+Coal India Limited,"Work clothing that has sensors embedded in it to securely transmit data to managers about hazardous conditions and the workers’ physical conditions, improving safety overall",Hardware,NC738,125,Smart Automation
+Coal India Limited,Prototype of a Solar Powered IOT Device with the ability to connect to a smart network to be used in Geo Tagging of Physical Assets Created under CSR,Hardware,NC739,17,Transportation & Logistics
+Coal India Limited,Moving vehicle registration plate detection,Software,NC740,114,Transportation & Logistics
+Coal India Limited,A system of IoT devices to measure load weight in a dumper,Software,NC741,32,Transportation & Logistics
+Ministry of Consumer Affairs,Smart Buffer Stock Solution,Hardware,VM742,40,"Agriculture, FoodTech & Rural Development"
+Ministry of Culture,Virtual Visit to Indian pilgrimages,Software,GM743,73,Heritage & Culture
+Ministry of Culture,AR App showcasing Turbans of India,Software,GM744,21,Heritage & Culture
+Ministry of Culture,OCR and Fastest Scanning Device and Application,Hardware,GM745,24,Smart Automation
+Ministry of Culture,Indoor Navigation for Museums,Software,GM746,48,Heritage & Culture
+Ministry of Culture,Hologram with Speech Synthesis,Software,GM747,20,Heritage & Culture
+Ministry of Culture,Augmented Reality Classroom Programme,Software,GM748,30,Heritage & Culture
+Ministry of Culture,Digital Reconstruction of Monuments,Software,GM749,16,Heritage & Culture
+Ministry of Culture,Ticketless Entry System to Monuments/Museums,Software,GM750,125,Heritage & Culture
+Ministry of Culture,3D Planetarium Software,Software,GM751,14,Heritage & Culture
+Ministry of Culture,AR App for Monuments,Software,GM752,32,Heritage & Culture
+Ministry of Culture,Virtual Excavation Game,Software,GM753,22,Heritage & Culture
+Ministry of Culture,E-commerce for Artisans,Software,GM754,125,Heritage & Culture
+"Ministry of Social Justice and Empowerment, Composite Regional Centre (CRC Srinagar), Department of Empowerment of Persons with Disabilities.",Tracing IP address and details of unidentified participants while academic sessions.,Software,RK755,52,Blockchain & Cybersecurity
+"Ministry of Social Justice and Empowerment, Composite Regional Centre (CRC Srinagar), Department of Empowerment of Persons with Disabilities.",Tracing IP Address behind VPN/Proxy Servers,Software,RK756,31,Blockchain & Cybersecurity
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Accessing visual information (written information) by persons with visual disability.,Software,RK757,21,Smart Education
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Enabling communication strategies for persons with hearing impairment.,Software,RK758,22,Smart Education
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Enabling alternative accessible strategies for persons with speech impairment.,Software,RK759,37,Smart Education
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Development of easy operating systems for persons with locomotor disability.,Hardware,RK760,51,Smart Automation
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",DEVELOPMENT & IMPLEMENTATION OF AN INTEGRATED WEB-BASED OFFICE DOCUMENT MANAGEMENT SYSTEM,Software,RK761,44,Smart Automation
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",DEVELOPMENT OF A WEB-BASED PLATFORM & MOBILE APP FOR STORING & SHARING INFORMATION ABOUT ACCESSIBLE BUILDINGS/ OFFICES/ PUBLIC PLACES/ BUS STOPS/ RAILWAYS/ MARKETPLACE SCHOOLS ETC.,Software,RK762,49,Smart Automation
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Difficulties in correspondence of sighted person with a admin/teacher,Software,RK763,10,Smart Education
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Difficulties to understand the concept in Math & Science for visual impaired person.,Software,RK764,14,Smart Education
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Comprehensive tools to edit the pdf and convert into epub format.,Software,RK765,16,Smart Education
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",IoT based solution for recording and storing metrics of normal and orthotic leg for analysis by Orthotist.,Hardware,RK766,33,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Using depth sensors or computer vision in prosthetic lower extremity exoskeleton appliance to alert or adjust gait.,Hardware,RK767,18,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",App for registration of Persons with Disabilities under ADIP scheme,Software,RK768,37,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Designing an app for screening the possible mental health issues in adolescents and PwDs.,Software,RK769,55,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Smart knee actuator cushion using pressure sensitive material,Hardware,RK770,16,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",A simplified app for assessment of reading and writing difficulties in persons with Specific Learning Disabilities.,Software,RK771,22,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Fall Detection and Alerts in hearing aids for deaf and hearing impairment,Software,RK772,17,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Difficulties in walking with white cane in surrounding environments.,Software,RK773,37,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Software for Vocational Training for persons with visual impairment,Software,RK774,14,Smart Education
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Software for facilitation of various Govt. schemes for persons with disabilities.,Software,RK775,32,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Development of ADIP-CI Post-operative rehabilitation details software.,Software,RK776,5,Miscellaneous
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment",Development of Software for AAC for persons with different disabilities,Hardware,RK777,34,MedTech / BioTech / HealthTech
+"Department of Empowerment of Persons with Disabilities(Divyangjan) , Ministry of Social Justice and Empowerment","Making Interactive Interface and adding functionality in the existing application of ADIP Cochlear Implant Program application by Ministry of Social Justice and Empowerment, GoI.",Software,RK778,6,MedTech / BioTech / HealthTech
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Tracking the impact of PM POSHAN on a child’s nutritional status and physical health and well-being,Software,RK779,48,Fitness & Sports
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Tracking the achievement of Learning Outcomes in Foundational Years,Software,RK780,10,Miscellaneous
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Real-time identification of Out of School Children with the help of an AI-based intervention that crawls through the various data sets of multiple departments to check if any children are not in school.,Software,RK781,9,Miscellaneous
+"Department of School Education & Literacy (DoSEL), Ministry of Education.","Development of a happiness index for schools (including mental health and well-being parameters, among others) with self-assessment facilities.",Software,RK782,48,"Agriculture, FoodTech & Rural Development"
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Crowd Sourcing model for preparing large question banks.,Software,RK783,51,Miscellaneous
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",App for government asset management,Software,RK784,47,"Agriculture, FoodTech & Rural Development"
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Solution to prevent copy right infringement/piracy/plagiarism of NCERT text books.,Software,RK785,9,Miscellaneous
+"Department of School Education & Literacy (DoSEL), Ministry of Education.","Monitoring safety in schools by the school, students, teachers and parents, with escalation of issues to District and state level with the help of an App masking the identity of person who escalates the issue",Software,RK786,9,Miscellaneous
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Making career choices and AI based counselling accessible to every child at secondary level along with aptitude tests and detailed career paths,Software,RK788,45,Miscellaneous
+"Department of School Education & Literacy (DoSEL), Ministry of Education.","An App or progress card to guide parents to facilitate and ensure holistic growth in cognitive, psychomotor and affective domains.",Software,RK789,16,Miscellaneous
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Access to Education - education delivery for specially-abled students Innovations in improving the delivery of education to students with special needs to improve the learning outcome,Software,RK790,14,Miscellaneous
+"Department of School Education & Literacy (DoSEL), Ministry of Education.","Mental health and well-being surveillance, assessment and tracking solution among children",Software,RK791,30,Miscellaneous
+Gas Authority of India Ltd (GAIL).,AI-enhanced OT security tool,Software,SK792,6,MedTech / BioTech / HealthTech
+Gas Authority of India Ltd (GAIL).,Forecasting Natural Gas International Prices using advanced Time-Series Techniques,Software,SK793,23,Heritage & Culture
+Gas Authority of India Ltd (GAIL).,Develop a Smart Attendance Capturing Mobile App,Software,SK794,125,Blockchain & Cybersecurity
+Indian Council for Cultural Relations (ICCR).,Digital infrastructure and a robust and smart Document Management System (DMS),Software,RK795,8,Smart Automation
+Indian Council for Cultural Relations (ICCR).,Online Monitoring and Evaluation System for ICCR’s Regional Offices (ROs)?,Software,RK796,7,Smart Automation
+Indian Council for Cultural Relations (ICCR).,Online Monitoring and Evaluation System for ICCR’s Indian Cultural Centers (ICC) abroad?,Software,RK797,7,Smart Automation
+"Central Ground Water Board (CGWB), Ministry of Jal Shakti",Standalone Desktop application for pumping test data analysis,Software,BV798,4,Smart Automation
+"National Water Mission (NWM), Ministry of Jal Shakti",Use of Digital Technology in addressing Non-Revenue Water (NRW),Software,BV799,10,Smart Automation
+"National Mission for Clean Ganga (NMCG), Ministry of Jal Shakti",Artificial intelligence enabled robotic trash boat to drive & harvest floating trash from urban drain-,Hardware,BV800,40,Disaster Management
+"Central Water Commission (CWC), Ministry of Jal Shakti",Two-way mobile communication (G2C and C2G) for dissemination of flood forecasts to end users and collection of real time data of inundation area through crowd sourcing,Software,RK1111,6,Disaster Management
+Ministry of Housing and Urban Affairs,Suggest a solution to predict the local impact of urban flooding in major cities.,Software,BV802,8,Miscellaneous
+Ministry of Housing and Urban Affairs,Suggest a solution to help the ULBs/State/UT Governments to monitor or control the growth of slums in the country and develop a self-sustained environment to ensure affordable housing in order to avoid growth of slums in future.,Software,BV803,23,"Agriculture, FoodTech & Rural Development"
+Ministry of Housing and Urban Affairs,Municipal Finances and Tax Management System.,Software,BV804,5,Miscellaneous
+Ministry of Housing and Urban Affairs,Suggest a solution to help municipal bodies maximize solid waste collection with their given resources.,Software,BV805,63,Clean & Green Technology
+Ministry of Housing and Urban Affairs,Suggest a redefined solution to help cities locate EV(Electric Vehicles) charging infrastructure.,Software,BV806,101,Smart Vehicles
+Ministry of Housing and Urban Affairs,Suggest an innovative technical approach to address the air pollution and stubble burning in Delhi/NCR.,Hardware,BV807,58,Disaster Management
+Ministry of Housing and Urban Affairs,Suggest an improvised way of tackling the issue of creating a consistent supply chain to augment the use of Bio fuels.,Software,BV808,6,Clean & Green Technology
+Ministry of Housing and Urban Affairs,Suggest a solution to ensure that the demand for public transport resonates with the stretched peak hours to ensure uniform demand during these hours.,Hardware,BV809,37,Transportation & Logistics
+Ministry of Housing and Urban Affairs,Suggest an effective way for tackling the issue of improper disposal of personal COVID protection equipment which leads to an additional strain on the city authorities who were already grappling with single use plastic menace.,Hardware,BV810,37,MedTech / BioTech / HealthTech
+Ministry of Housing and Urban Affairs,Suggest an innovative approach to serve the educational needs of the weaker section of the society during this challenging situation of COVID-19.,Software,BV811,13,Miscellaneous
+Ministry of Housing and Urban Affairs,Suggest effective solutions that would attract commuters to use Public Transport in large scale during this Pandemic situation.,Software,BV812,26,Transportation & Logistics
+Ministry of Housing and Urban Affairs,An unique solution that would help to include informal vendors in the public space development without compromising on the Urban Design.,Software,BV813,18,"Agriculture, FoodTech & Rural Development"
+Ministry of Housing and Urban Affairs,Suggest an effective way for mitigating the problem of conserving and re-using the rain water and reduce water demand at source.,Hardware,BV814,37,Disaster Management
+Ministry of Housing and Urban Affairs,Suggest an innovative approach for redeveloping the centralized sewage treatment plants and help the city managers to better adopt decentralized approaches and ensure water resources through reuse.,Hardware,BV815,16,Disaster Management
+Ministry of Housing and Urban Affairs,Suggest an effective solution that would help the city managers to overcome the problem oof sewerage blockage.,Software,BV816,8,Disaster Management
+"India Meteorological Department (IMD), Ministry of Earth Sciences (MoES).",Subset Wizard along with Data Format Conversion Utility,Software,GR817,2,Miscellaneous
+"India Meteorological Department (IMD), Ministry of Earth Sciences (MoES).",Real Time Satellite Imagery dissemination app,Software,GR818,6,Disaster Management
+"India Meteorological Department (IMD), Ministry of Earth Sciences (MoES).",Data Format Conversion Utility,Software,GR819,3,Miscellaneous
+"India Meteorological Department (IMD), Ministry of Earth Sciences (MoES).",HORIZONTAL WIND CALCULATION FOR A VERTICAL COLUMN OF A VLOUME SCAN OF RADAR,Software,GR820,2,Miscellaneous
+"India Meteorological Department (IMD), Ministry of Earth Sciences (MoES).",Bias correction of NWP model temperature forecasts for cities using ANN/ML/DL,Software,GR821,5,Disaster Management
+"India Meteorological Department (IMD), Ministry of Earth Sciences (MoES).",Consensus of hourly visibility forecast for airports using NWP model and observations,Software,GR822,4,Disaster Management
+"India Meteorological Department (IMD), Ministry of Earth Sciences (MoES).",Non-residential built-up extraction using AI techniques,Software,GR823,6,Miscellaneous
+"Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences (MoES).",Identification of regions prone to boat overturning,Software,NK824,6,Disaster Management
+"Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences (MoES).",Prediction of drifted personnel or asset,Software,NK825,3,Disaster Management
+"Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences (MoES).",Automated Identification of Fish Species (AutoFiS),Software,NK826,66,"Agriculture, FoodTech & Rural Development"
+"Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences (MoES).",Prediction of Oil Spills Events at Sea (POSEatSea),Software,NK827,11,Disaster Management
+"Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences (MoES).",Cost of Air Pollution to Solar Power Generation (CAPsolar),Software,NK828,19,Renewable / Sustainable Energy
+"Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences (MoES).",Fishing boat Activity Clustering and Timeline Studying (FACTS),Software,NK829,6,"Agriculture, FoodTech & Rural Development"
+"Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences (MoES).",Flagging of (AIS) INactivity Data (FIND),Software,NK830,2,Disaster Management
+"Indian National Centre for Ocean Information Services (INCOIS), Ministry of Earth Sciences (MoES).",Automated Animal Identification and Detection of Species (AAIDeS),Software,NK831,27,"Agriculture, FoodTech & Rural Development"
+Ministry of Electronics and Information Technology (MEITY).,Smart Document Capture Platform,Software,PK832,25,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Conversational Demographics Data Update System,Software,PK833,6,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Digital Payment Solution.,Software,PK834,12,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Aadhaar Data Vault,Software,PK835,9,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Mobile Operator Booking Platform.,Software,PK836,31,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Document Quality Score,Software,PK837,15,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Innovative Resident Application.,Software,PK838,7,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Aadhaar Kiosk,Software,PK839,8,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Resident Consent Framework.,Software,PK840,6,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Push notification for Address change.,Software,PK841,11,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Preparing AI ready datasets.,Software,PK842,8,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Indian Plagiarism tool,Software,PK843,9,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Terms and Condition Checking Tool,Software,PK844,12,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Career guidance System,Software,PK845,29,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Finding Impact of Online Games,Software,PK846,12,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Voice based delivery of academic records,Software,PK847,10,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Recommendation System for Future Skills,Software,PK848,13,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Assessment of Tele-Education(Online Content which teaches an individual),Software,PK849,6,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Unique Student Identity and student profile system,Software,PK850,33,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Offline Portal For Direct Benefit Transfer of Scholarship,Software,PK851,8,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Online knowledge Assesment,Software,PK852,5,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Handwriting Assessment,Software,PK853,10,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,"Identifying the Dyslexia, Dyscalculia, Dysgraphia, Dyspraxia, Autism or ADHD in school going children.",Software,PK854,36,MedTech / BioTech / HealthTech
+Ministry of Electronics and Information Technology (MEITY).,Cyber Hygiene for Students,Software,PK855,15,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Controlling Screen time for Children,Software,PK856,25,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Digital Grammer Teacher,Software,PK857,10,Miscellaneous
+Ministry of Electronics and Information Technology (MEITY).,Automated Notes Maker from Audio Reccordings,Software,PK858,51,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Virtual Laboratory for Science subjects at school level,Hardware,PK859,18,Smart Automation
+Ministry of Electronics and Information Technology (MEITY).,Sustainable and No Contact Attendance system,Hardware,PK860,125,Smart Automation
+Ministry of Mines,Recycling App,Software,SS861,25,Clean & Green Technology
+International Council for Circular Economy (ICCE).,Tracking of supply chain and reverse logistics of products to reduce environmental impact,Software,SG862,7,Clean & Green Technology
+International Council for Circular Economy (ICCE).,Solution to establish a zero waste society with proper waste disposal management,Software,SG863,50,Clean & Green Technology
+International Council for Circular Economy (ICCE).,"Tracking, reducing and reusing of plastic waste",Software,SG864,45,Clean & Green Technology
+International Council for Circular Economy (ICCE).,Industrial wastewater treatment,Software,SG865,18,Disaster Management
+International Council for Circular Economy (ICCE).,Using food waste as consumable organic resource,Software,SG866,34,Clean & Green Technology
+International Council for Circular Economy (ICCE).,Tracking of food waste for productive usage,Software,SG867,40,Clean & Green Technology
+Ministry of Mines,Grade-wise iron-ore accounting from mines to end-points to prevent loss of revenue to the state,Software,SS868,3,Miscellaneous
+Ministry of Mines,"""Interpretation of geological, geochemical, and geophysical dataset using ML/AI to carve out new mineral potential areas.""",Software,SS869,5,Miscellaneous
+Government of Maharashtra.,"How to use Aadhaar number of students to identify fake enrolment, duplication and authentication of students.",Software,OS870,55,Smart Education
+Government of Maharashtra.,Attendance systems for students of government aided schools.,Software,OS871,125,Smart Education
+Government of Maharashtra.,Real time tracking of students learning’s outcomes and their academic progress across schools.,Software,OS872,68,Smart Education
+Government of Maharashtra.,"Teachers (From Recruitment, posting to entire duration of their service as teachers) Management System",Software,OS873,51,Smart Education
+Ministry of Skill Development and Entrepreneurship (MSDE).,"""There is a need to create an engaging, supportive alumni network which is crucial to an institutions /organizations success. Currently, there is no mechanism for the Directorate to keep a track of the trainees passing out year by year.""",Software,DB874,47,Smart Education
+Ministry of Skill Development and Entrepreneurship (MSDE).,Development of a One Stop Platform for budding entrepreneurs for Overall Support:,Software,DB875,38,Smart Education
+Ministry of Skill Development and Entrepreneurship (MSDE).,AI Based Platform for Students,Software,DB876,20,Smart Education
+Ministry of Skill Development and Entrepreneurship (MSDE).,AI Based platform for start-up validation and support,Software,DB878,11,Smart Education
+Ministry of Skill Development and Entrepreneurship (MSDE).,AI BASED PLATFORM for entrepreneurs for decision making process,Software,DB879,9,Smart Automation
+Ministry of Skill Development and Entrepreneurship (MSDE).,Artificial Intelligence Based mobile application for the workers and website based admin tool for management.,Software,DB880,32,Smart Automation
+Ministry of Skill Development and Entrepreneurship (MSDE).,National Entrepreneurship Internship Exchange,Software,DB881,8,Smart Automation
+Ministry of Skill Development and Entrepreneurship (MSDE).,PWD (Divyang) user friendly Entrepreneurship Support & Facilitation Ecosystem,Software,DB882,8,Smart Automation
+Ministry of Skill Development and Entrepreneurship (MSDE).,Entrepreneurship Facilitation Services Processing Centre:,Software,DB883,7,Smart Automation
+Ministry of Skill Development and Entrepreneurship (MSDE).,Analysis of Business of MSME Sector,Software,DB884,6,Smart Automation
+Ministry of Skill Development and Entrepreneurship (MSDE).,To start Skill India Helpline (Toll-Free) number,Software,DB885,6,Smart Automation
+Ministry of Skill Development and Entrepreneurship (MSDE).,Automatic sign and photo detection from the uplaoded documents by trainees during admissions using Artificial Intelligence and Optical Charater Recognition.,Software,DB886,44,Smart Automation
+Ministry of Skill Development and Entrepreneurship (MSDE).,"Farming equipment’s are expensive, leveraging unused equipment may add to additional income for the farmers.",Software,DB887,50,Miscellaneous
+National Institute of Design Madhya Pradesh,"""Automated feedback system to know the exact location of non-functional streetlights in the rural areas of Central India""",Software,ST888,31,Miscellaneous
+National Institute of Design Madhya Pradesh,Scarcity of water in hilly areas during summer months.,Hardware,ST889,55,Renewable / Sustainable Energy
+National Institute of Design Madhya Pradesh,Insufficient medical support system and remote villages in hill areas,Software,ST890,50,Robotics and Drones
+National Institute of Design Madhya Pradesh,App/portal for tracking/finding of missing persons/children by use of Aadhaar enabled Biometric details:,Software,ST891,26,Miscellaneous
+National Institute of Design Madhya Pradesh,"""Application based solution for tracking and creating information system for Overloaded Commercial vehicles.""",Software,ST892,17,Smart Automation
+National Assessment and Accreditation Council (NAAC).,Assessment of Higher Educational Institutes by NAAC,Software,SS893,5,Miscellaneous
+Narcotics Control Bureau (NCB).,Development of an app/software for tracking dual use chemicals (chemicals that have legit uses and when diverted become precursors to major drugs)from their manufacture to end use. Need to have proper app and software to collate and maintain this data with proper data mining facilities. We should also have utilities in generating crucial report.,Software,PK894,4,Miscellaneous
+Narcotics Control Bureau (NCB).,Development of an app/software for tracking prescription drugs (medicines having narcotic & psychotropic properties that are also covered under NDPS Act) to prevent its misuse. Such an app should track a prescription drug right from the manufacture at a factory until it is disbursed/sold to a legit patient by an authorized pharmacy/chemist/hospital.,Software,PK895,39,Miscellaneous
+Narcotics Control Bureau (NCB).,Development of an app where general public can report information on drug trafficking anonymously.,Software,PK896,47,Miscellaneous
+Narcotics Control Bureau (NCB).,Crawling of the Darknet markets to identify drug traffickers on dark net based in India and the drugs they offer for sale.,Software,PK897,10,Miscellaneous
+Narcotics Control Bureau (NCB).,Digital foot printing of crypto currency transactions for drug trafficking over Darknetdone by persons based in India,Software,PK898,5,Miscellaneous
+National Disaster Response Force (NDRF).,Administrative Difficulties faced by NDRF in Rescue missions in floods/GLOF(Glacial Lake Outburst Flood) situations,Hardware,GS899,30,Disaster Management
+National Disaster Response Force (NDRF).,Extraction of Data including voice and images from various social Media platforms from Disaster struck areas,Software,GS900,24,Disaster Management
+National Disaster Response Force (NDRF).,Identification and location of voids in earthquake scenario,Hardware,GS901,17,Disaster Management
+National Disaster Response Force (NDRF).,Effective Under water search/ROV,Hardware,GS902,22,Disaster Management
+National Disaster Response Force (NDRF).,Predictive warning for release of water from reservoirs causing flood situation,Software,GS903,13,Disaster Management
+National Disaster Response Force (NDRF).,Smart wearables for rescuers/victims,Hardware,GS904,50,Disaster Management
+National Disaster Response Force (NDRF).,Programming Simulations on various Disaster situations,Software,GS905,6,Disaster Management
+National Disaster Response Force (NDRF).,Community connect with trained NCC/NSS volunteers for remote locations during disasters,Software,GS906,32,Disaster Management
+National Disaster Response Force (NDRF).,Alerts/early warnings regarding the Heat Wave/Lightening strike to citizens/ Early Warning System for Lightening and Heat Wave,Software,GS907,6,Disaster Management
+National Disaster Response Force (NDRF).,Borewell Rescue Operations,Hardware,GS908,60,Disaster Management
+National Disaster Response Force (NDRF).,"High resolution 3D of terrain and infrastructure, Road travel conditions in Disaster struck areas",Software,GS909,4,Disaster Management
+National Disaster Response Force (NDRF).,Using Innovative Blockchain Technologies in Emergency Management and Disaster Response,Software,GS910,17,Disaster Management
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Measurement of Coastal topography and marking the high and low tide lines using drones.,Hardware,GR912,21,Robotics and Drones
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Software solution for E-Mail Load Balancing,Software,GR913,6,Smart Automation
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Video Compression algorithm for GSM & Satellite telemetry,Software,GR914,3,Miscellaneous
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Pattern recognition algorithm to identify marine animals.,Software,GR915,37,Robotics and Drones
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Software to track any new IP assigned and joins the network other than the approved list of IP’s.,Software,GR916,10,Miscellaneous
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",To track list of software installed in the PC’s / Workstation’s attached to the network.,Software,GR917,13,Miscellaneous
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Software for system hardware inventory.,Software,GR918,9,Miscellaneous
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Print Management Software.,Software,GR919,6,Miscellaneous
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Management Software on software utilisation,Software,GR920,4,Miscellaneous
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Programming a microcontroller wirelessly.,Software,GR921,11,Miscellaneous
+"National Institute of Ocean Technology (NIOT), Ministry of Earth Sciences (MoES).",Uploading and updating the database of pothole on road on Maps to help people driving their vehicle when the roads are flooded.,Software,GR922,29,Disaster Management
+"Department of Social Justice & Empowerment, Ministry of Social Justice and Empowerment",Simplifying the verification process of granting scholarship,Software,RS923,12,Heritage & Culture
+"Department of Social Justice & Empowerment, Ministry of Social Justice and Empowerment",Simplifying the selection process of financially weak students for granting aid for coaching for competitive exams.,Software,RS924,12,Smart Education
+"Department of Social Justice & Empowerment, Ministry of Social Justice and Empowerment",Tracking the attendance of students for timely granting of aids from government.,Software,RS925,36,Smart Education
+"Department of Social Justice & Empowerment, Ministry of Social Justice and Empowerment",Simplifying the process of identifying bright students for Ambedkar Social Innovation & Incubation Mission (ASIIM).,Software,RS926,5,Smart Education
+"Department of Social Justice & Empowerment, Ministry of Social Justice and Empowerment",Simplifying the process of reaching youth for spreading awareness regarding Nasha Mukt Bharat Abhiyan (NMBA).,Software,RS927,11,Smart Education
+"Department of Social Justice & Empowerment, Ministry of Social Justice and Empowerment",Simplifying the process of financing por SCs and OBCs through banks without transferring additional burden to government.,Software,RS928,4,Smart Education
+University Grants Commission (UGC).,Development of fully automatic system to enable Online Expert Committee Visits for statutory bodies,Software,VS929,3,Miscellaneous
+University Grants Commission (UGC).,Development of Online projects progress monitoring system for funded Higher Educational Institutions under various schemes and the funding agencies,Software,VS930,7,Miscellaneous
+University Grants Commission (UGC).,Development of ‘Complaint/Grievance handling mechanism’ for connecting stakeholders and the Higher Educational Institutions so as to ensure single point window across all the relevant regulators,Software,VS931,11,Miscellaneous
+University Grants Commission (UGC).,Development of One Nation – One funding information portal which disseminates various funding schemes with relevant details and interactive user interface across all funding agencies in higher education,Software,VS932,10,Miscellaneous
+University Grants Commission (UGC).,Development of Integrated dashboard for sharing of innovation and startups with success stories across Higher Educational Institutions and relevant stakeholders,Software,VS933,28,Miscellaneous
+University Grants Commission (UGC).,Development of Integrated dashboard for placement (students and companies),Software,VS934,49,Miscellaneous
+University Grants Commission (UGC).,Development of portal for sharing of resources amongst Higher Educational Institutions on mutual agreement basis,Software,VS935,10,Miscellaneous
+University Grants Commission (UGC).,"Development of portal which integrates in run time the information such as recognition(AICTE/UGC/NMC/Other regulators), accreditation (NAAC/NBA) and NIRF so as to ensure availability of authentic information anytime-anywhere for anyone",Software,VS936,7,Miscellaneous
+University Grants Commission (UGC).,Development of system which integrates all types of notified Universities (Central/State/Private/Deemed to be University/Open) and identifies query based fake universities offering conventional /distance/Online Education,Software,VS937,7,Miscellaneous
+University Grants Commission (UGC).,"Development of centralized student feed-back system, accessible to the HEI, concerned university and the regulatory body for effective monitoring of teaching-learning in the HEI and to have enhanced learning experience for the learners",Software,VS938,15,Miscellaneous
+University Grants Commission (UGC).,Development of text based chatBot capable of handling queries related to UGC/HEI,Software,VS939,32,Miscellaneous
+University Grants Commission (UGC).,Design of translation software with multi inputs to translate English to Hindi OR vice-versa to promote extensive use of Hindi language in official matters,Software,VS940,6,Miscellaneous
+University Grants Commission (UGC).,Development of run time UGC Legal Court Cases tracking system duly integrated with various Courts of India for real time monitoring,Software,VS941,9,Miscellaneous
+University Grants Commission (UGC).,Development of system to avoid duplicity of Research Projects submitted to various funding agencies,Software,VS942,6,Miscellaneous
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM943,125,Smart Automation
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM944,116,Fitness & Sports
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM945,68,Heritage & Culture
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM946,125,MedTech / BioTech / HealthTech
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM947,125,"Agriculture, FoodTech & Rural Development"
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM948,116,Smart Vehicles
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM949,86,Transportation & Logistics
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM950,64,Robotics and Drones
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM951,84,Clean & Green Technology
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM952,125,Travel & Tourism
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM953,54,Renewable / Sustainable Energy
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM954,125,Blockchain & Cybersecurity
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM955,125,Miscellaneous
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM956,125,Smart Automation
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM957,76,Fitness & Sports
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM958,35,Heritage & Culture
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM959,125,MedTech / BioTech / HealthTech
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM960,125,"Agriculture, FoodTech & Rural Development"
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM961,125,Smart Vehicles
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM962,115,Transportation & Logistics
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM963,125,Robotics and Drones
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM964,125,Clean & Green Technology
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM965,54,Travel & Tourism
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM966,125,Renewable / Sustainable Energy
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM967,39,Blockchain & Cybersecurity
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM968,125,Miscellaneous
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM970,107,Disaster Management
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM971,52,Disaster Management
+"AICTE, MIC-Student Innovation",Student Innovation,Software,SM972,125,Smart Education
+"Indian Knowledge System (IKS), All India Council for Technical Education (AICTE)",OCR of Temple inscriptions and translations in Devanagari Scripts.,Software,AD973,6,Heritage & Culture
+"Indian Knowledge System (IKS), All India Council for Technical Education (AICTE)",Real time translations for regional languages,Software,AD974,8,Heritage & Culture
+"Indian Knowledge System (IKS), All India Council for Technical Education (AICTE)","Search Engine for Vedas ,related text words.",Software,AD975,12,Heritage & Culture
+"Indian Knowledge System (IKS), All India Council for Technical Education (AICTE)",Sanskrit voice to text and interface in Google Search Engine.,Software,AD976,7,Heritage & Culture
+"Department of School Education & Literacy (DoSEL), Ministry of Education.","Education ecosystem for specially abled students need provisions and/or improvements to take care of compliance, governance and conduct .",Software,RK977,7,Smart Education
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Improving Education Delivery and learning outcome for specially abled children,Hardware,RK978,31,Smart Education
+"Department of School Education & Literacy (DoSEL), Ministry of Education.",Identify slow learners for remedial teaching and capacity building for innovative methods,Hardware,RK979,16,Smart Education
+Madhya Pradesh Police.,Big Data Searching.,Software,AT980,22,Blockchain & Cybersecurity
+Madhya Pradesh Police.,Drone Neutralisation Technique in city/crowded areas to neutralise drones without hampering other radio signals or other equipment in a certain range.,Software,AT981,14,Blockchain & Cybersecurity
+Madhya Pradesh Police.,Vehicle number recognition by using existing general surveillance cameras,Software,AT982,72,Blockchain & Cybersecurity
+Madhya Pradesh Police.,Predictive analytic solutions using AI,Software,AT983,9,Blockchain & Cybersecurity
+Madhya Pradesh Police.,Creation of G.I.S. Layers through GPS Data of Dial 100 Vehicles.,Software,AT984,5,Blockchain & Cybersecurity
+Madhya Pradesh Police.,Transfer of Multimedia data through Police Radio Sets.,Software,AT985,4,Blockchain & Cybersecurity
+Madhya Pradesh Police.,"Detection of Criminal Activities/Criminal through CCTV by analysing live footage for melee, mob formation, body language of suspect etc",Software,AT986,50,Blockchain & Cybersecurity
+Madhya Pradesh Police.,"Speech to text conversion for local ethnic languages of MP like Malavi, Bagheli etc.",Software,AT987,10,Blockchain & Cybersecurity
+Madhya Pradesh Police.,"System would Identification of System Generated, Spoof Calls landing at Dial 100 Control Room",Software,AT988,12,Blockchain & Cybersecurity
+Madhya Pradesh Police.,Speech Emotion Recognition (SER) on live calls while creating events.,Software,AT989,37,Blockchain & Cybersecurity
+"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SM990,60,Smart Education
+Autodesk India Pvt. Ltd.,Design a Drone using Autodesk Fusion 360 Software (Free for education & Students) for ANY ONE of the below services.,Software,AV991,63,Robotics and Drones
+Ministry of Rural Development,Create an application for beneficiary to know the end-to-end transactions from generation of FundTransfer Orders to receipt of payment for the work done by the beneficiary,Software,SH994,9,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Create a Visualisation for Streamlining of Reporting Framework for Mahatma Gandhi NREGS reports,Software,SH995,5,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,"Automation of mechanism for imagecapturing,processing, standardization, evaluation, classification leadingto better decision making results for various programs using Deep learning, imageprocessing algorithms, AI algorithms",Software,SH996,12,Smart Automation
+Ministry of Rural Development,Solution for impact assessment of Natural Resource Management (NRM)assets on the ground.,Software,SH997,5,Smart Automation
+Ministry of Rural Development,Website and Application For convergence with MoLE initiatives,Software,SH998,7,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,"Develop a tool to detect, separate and match Individual from a group photo using Face Recognition mechanism.",Software,SH999,48,Smart Automation
+Ministry of Rural Development,Develop a system for high compressionand decompressionof Photograph and documents without loss of Quality,Software,SH1000,12,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,"Create a System for drawing a complete polygon for any small asset (i.e. Assetsdeveloped during MGNREGA, PMAYG schemes) by knowing 3 coordinates alongwith the length andwidth.",Software,SH1001,5,Smart Automation
+Ministry of Rural Development,Develop an ICT enabled mechanism to monitor quality of houses constructed under PradhanMantri Awaas Yojana– Gramin (PMAY-G) in most cost-effectiveway.,Software,SH1002,7,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Create a system to recognize and understand local dialect by Computer or other IT devices to deliver voice,Software,SH1003,9,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Develop a system toTransliterate Regional language text into English /Hindi and perform matching using fuzzylogic / machine learning algorithms,Software,SH1004,11,Smart Automation
+Ministry of Rural Development,Develop a system which can read and analyse handwritten text and convert it into normal editable text.,Software,SH1005,37,Smart Automation
+Ministry of Rural Development,Design a system generating the total no of people eligible for receiving pensions under NSAP (Indira GandhiNational Old AgePension Scheme) but are not included(area wise),Software,SH1006,9,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Mechanism to help rural people to self select for receiving benefit offered underGovt. scheme.,Software,SH1007,40,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,"Real time visualization of location wise financial transactions (volume and amount) for various schemes[such as PMAY(G), MGNREGS, PMGSY,NRLM, DDU-GKY]",Software,SH1008,8,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,"""Algorithm/Mechanism for analyzing and estimating % match level for similar data column/s values (e.g. Consolidation of multiple Govt. programs implies an individual be uniquely identified in all DBs. To uniquely identify, a location address is provided (e.g. a village name) and then other details such as name, DOB, Mother’s, Father’s name etc.""",Software,SH1009,6,Smart Automation
+Ministry of Rural Development,"""Mechanism to effectively track and capture Attendance at work sites for MGNREGS workers using IRIS based attendance monitoring system""",Software,SH1010,26,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Design a system for multi hazard visualization as perlocation selected by Individual,Software,SH1011,6,Smart Automation
+Ministry of Rural Development,Provide easy and realtime access of information on housing typologies for area selected by Individuals for House construction,Software,SH1012,6,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,"Mechanism for linking of works under convergence in Rurban with multiple DBs (e.g.:MGNREGS, PMUY, DDU-GKY, PMAY etc.)",Software,SH1013,3,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Maintaining and updating the records for SHG in realtime where network connectivity is low.,Software,SH1014,3,Miscellaneous
+Ministry of Rural Development,Analysis for noise identification in largeand complex data collected from different sources and rectifying them.,Software,SH1015,3,Smart Automation
+Ministry of Rural Development,Development ofDigital interface forSpatial Economicplan using shift-shareanalysis and Input -Output Theory at acluster level scale(comprising 5 - 6gram Panchayats),Software,SH1016,1,Smart Automation
+Ministry of Rural Development,"An app which helps in automating the permission needed for development works like building permission, spatial lands etc according to the development norms.",Software,SH1017,7,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Analytics tool to provide detail reportson the grading difference between NQM and SQM,Software,SH1018,5,Transportation & Logistics
+Ministry of Rural Development,Identification of reduction in carbonfootprint using newtechnologies,Software,SH1019,9,Clean & Green Technology
+Ministry of Rural Development,Identification of missing LSBs whichcan be added in theroad network tominimize the traveltime,Software,SH1020,3,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Identification of Missing Bridges which would increase the connectivity between regions,Software,SH1021,7,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Identification of Flood Prone Roads,Software,SH1022,9,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,"System for an efficient and transparent process of buyer-seller interactions, provision for creating niche product offerings for SHG groups for all areas",Software,SH1023,22,"Agriculture, FoodTech & Rural Development"
+Ministry of Rural Development,Real-time transaction to be introduced for SHGs and their Federations,Software,SH1024,4,"Agriculture, FoodTech & Rural Development"
+Ministry of Tourism,Initiative that can contribute towards Net Zero Emission in tourism sector,Software,PK1025,10,Travel & Tourism
+Ministry of Tourism,Develop proof of concept to measure carbon footprint of various tourism activities.,Software,PK1026,11,Travel & Tourism
+Ministry of Tourism,Estimation of current CO2 emmisions in Tourism and ways to reduce them,Hardware,PK1027,42,Travel & Tourism
+Ministry of Tourism,"Minimizing the effect of negative implications (natural calamities, plague, pandemic like COVID19 and other similar factors) on tourism industry.",Software,PK1028,15,Travel & Tourism
+Ministry of Tourism,"Suggesting the minimum support requirements at tourist destination, community level to ensure suitability of setting up of homestay ecosystem.",Software,PK1029,20,Travel & Tourism
+Ministry of Tourism,Promoting and regulating homestay ecosystems for maintaining general standard throughout the country.,Software,PK1030,26,Travel & Tourism
+Ministry of Tourism,"Use of digitization to undertake capacity building and training for development, operations and maintenance of homestays.",Software,PK1031,8,Travel & Tourism
+Ministry of Tourism,Need of deployment to collaborate content sourcing for ensuring consumer engagement.,Software,PK1032,10,Travel & Tourism
+Ministry of Tourism,Comprehensive and consultative approach on destination’s branding and marketing for various stakeholders and industry requirements,Software,PK1033,15,Travel & Tourism
+Ministry of Tourism,Digital interventions / innovative operating models for ensuring operations and maintenance of tourism infrastructure to required service levels.,Hardware,PK1034,8,Heritage & Culture
+Ministry of Tourism,Innovative solutions to save time and effort required to assess the tourism infrastructure through digital process,Hardware,PK1035,9,Heritage & Culture
+Ministry of Tourism,Ensuring tourism safety and security digital interventions.,Software,PK1036,16,Heritage & Culture
+Ministry of Tourism,"Avoiding incidents related to tourist overcharging, duping and overall lack of information for tourist safety and security checked at various service provider.",Software,PK1037,27,Heritage & Culture
+Ministry of Labour & Employment,Complaint Redressal Machinery,Software,DH1038,5,Smart Automation
+Ministry of Labour & Employment,Guidance system for claims and needs of labour,Software,DH1039,9,Smart Automation
+Ministry of Labour & Employment,Employment tracking and traceability system - Organized sector,Software,DH1040,8,Smart Automation
+Ministry of Labour & Employment,Employment tracking and traceability system - Migrant workers,Software,DH1041,9,Smart Automation
+Ministry of Labour & Employment,e-Buddy for rescued child labour,Software,DH1042,13,Smart Automation
+Ministry of Labour & Employment,Knowledge sharing platform for V V Giris Naional Labour Institute,Software,DH1043,8,Smart Education
+Government of Rajasthan,To create a eco-friendly way of packing several varieties of foods,Software,TK1044,17,Clean & Green Technology
+Government of Rajasthan,To find all-new ways to store electric energy in bigger volume and less in size and weight.,Hardware,TK1045,53,Renewable / Sustainable Energy
+Government of Rajasthan,"To create a better, social media integrated search engines",Software,TK1046,7,Smart Education
+Government of Rajasthan,"To build robots for all kinds of dedicated tasks such as cleaning shoes, planting crops, cleaning windows, etc.",Hardware,TK1047,93,Robotics and Drones
+Government of Rajasthan,"To innovate a Smart materials that change their behaviour based on environmental conditions i.e, taking the carbon out of carbon dioxide, and returning the dioxide back to air.",Hardware,TK1048,20,Smart Automation
+Government of Rajasthan,To develop new ways of Waste water management system in rural areas,Hardware,TK1049,69,"Agriculture, FoodTech & Rural Development"
+Government of Rajasthan,"To create systems that alleviate waiting in line - at doctors, at shops, at bus stops.",Software,TK1050,32,Miscellaneous
+Government of Rajasthan,To find ways to replace prisons with socially effective methods of societal reintegration,Hardware,TK1051,10,Miscellaneous
+Government of Rajasthan,To develop a sytem Electronically detecting occupancy of beds in Hospitals,Software,TK1052,77,MedTech / BioTech / HealthTech
+Government of Uttarakhand,To develop a website for systematic farming for farmers in local languages.,Software,AU1053,67,MedTech / BioTech / HealthTech
+Government of Uttarakhand,To develop software to identify famous local things at particular villages.,Software,AU1054,36,MedTech / BioTech / HealthTech
+Government of Uttarakhand,To develop economic waste management system for each village/city.,Hardware,AU1055,48,MedTech / BioTech / HealthTech
+Government of Uttarakhand,To construct ropeway map/structure in hilly areas for transportation,Hardware,AU1056,14,Transportation & Logistics
+Government of Uttarakhand,Most economical water security plan for remotest villages of Uttarakhand,Hardware,AU1057,29,Renewable / Sustainable Energy
+Government of Uttarakhand,To develop automatic irrigation system by use of waste water for small irrigation field.,Hardware,AU1058,62,MedTech / BioTech / HealthTech
+Government of Uttarakhand,GIS based flood & landslide risk assessment in hilly areas of Uttarakhand.,Hardware,AU1059,12,Disaster Management
+Government of Uttarakhand,To develop Waste water management system in villages.,Hardware,AU1060,53,"Agriculture, FoodTech & Rural Development"
+Government of Uttarakhand,To develop Mobile software for guiding the tourist (Char Dham Yatra & other places) in Uttarakhand state.,Software,AU1061,125,Travel & Tourism
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Temperature sensitive / programmable stickers for medicines and other temperature sensitive products:,Software,DA1062,22,MedTech / BioTech / HealthTech
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Knee support for elderly for transferring body weight to shoe,Hardware,DA1063,36,MedTech / BioTech / HealthTech
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Non-invasive Glucometer,Hardware,DA1064,52,MedTech / BioTech / HealthTech
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Solar panel with solar tracking device without power consumption,Hardware,DA1065,109,Smart Automation
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",AI based interactive robot for elderly care,Hardware,DA1066,51,Robotics and Drones
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Video conference – Eye to eye contact – Mobile App,Hardware,DA1067,13,Miscellaneous
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Effective search mechanism for suggestive response to Parliament Questions,Software,DA1068,7,Miscellaneous
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Wheel Chair with attachment for B-Type oxygen cylinder for COPD patients,Hardware,DA1069,52,Transportation & Logistics
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Water harvesting:,Hardware,DA1070,64,Clean & Green Technology
+"Department of Science & Technology (DoST), Ministry of Science and Technology.","Gaming Apps, etc. for the elderly",Software,DA1071,43,Fitness & Sports
+"Department of Science & Technology (DoST), Ministry of Science and Technology.",Smart Networks for Renewable Integrated Sources for standalone Microgrids,Hardware,DA1072,39,Renewable / Sustainable Energy
+Ministry of External Affairs (MEA),"Linking Smart cameras with alarm systems to avoid triggering a false alarm by birds or animals or vibrations due to wind, loud sounds, etc.",Software,LC1073,15,Smart Automation
+Ministry of External Affairs (MEA),Use of technology in trade and logistics in reducing transportation and transaction costs.,Software,LC1074,12,Transportation & Logistics
+Ministry of External Affairs (MEA),Use of technology in overcoming language barriers.,Software,LC1075,13,Smart Education
+Ministry of External Affairs (MEA),Email Spoofing Detection – Spoofed email with swapped email id(and IP too) can come to any user’s inbox. Suggest a mechanism to filter the spoofed email at server only.,Software,LC1076,20,Blockchain & Cybersecurity
+Ministry of Finance,Single Database on Orders of arbitrator & mediation,Software,RS1077,7,Miscellaneous
+Ministry of Finance,Development of Information App for Alert on Financial Matters,Software,RS1078,7,Miscellaneous
+Ministry of Finance,Upgradation of Jan-Dhan Darshak App,Software,RS1079,8,Miscellaneous
+"Dairy Division, Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry & Dairying",Online registration and processing of dairy farmers producing milk and other livestock products,Software,DV1080,35,"Agriculture, FoodTech & Rural Development"
+"Dairy Division, Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry & Dairying",An online platform to link potential dairy importers of the world with the major dairy product manufacturers of the Country.,Software,DV1081,20,"Agriculture, FoodTech & Rural Development"
+"Dairy Division, Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry & Dairying",A web portal to manage and strengthen dairy infrastructure of dairy processors of the Cooperative and private dairy sector.,Software,DV1082,13,"Agriculture, FoodTech & Rural Development"
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Create games/open source solutions to develop games which help in teaching/learning concepts,Software,AK1083,15,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).","AI and ML powered teacher, parents assistant app - for helping country achieve FLN goals",Software,AK1084,7,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",An Artificial Intelligence and Machine Learning based career guidance tool,Software,AK1085,33,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",NDEAR compliant School learning app,Software,AK1086,5,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Democratising Virtual Reality and other Immersive content Creation,Software,AK1087,5,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Lowest Cost Smart Board - A Seamless Teaching Experience,Software,AK1088,10,Smart Automation
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Application to improve Reading profeciency,Software,AK1089,11,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Multi User rapid dipstick phydigital Assessment/Surveys in low device environment,Software,AK1090,6,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Every Classroom a Digital Classroom,Software,AK1091,16,Smart Automation
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Multi User rapid dipstick phydigital Assessment/Surveys in low device environment,Software,AK1092,4,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",National School Water Monitoring System,Software,AK1093,8,Smart Automation
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Augmented Reality Search - Taking ETB's One Step Ahead,Software,AK1094,7,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Bringing power of AI/ML to aid of teacher in a classroom,Software,AK1095,16,Smart Education
+"National Digital Education Architecture (NDEAR), Department of School Education & Literacy (DoSEL).",Teaching- Learning Marketplace/Volunteer matchmaking,Software,AK1096,26,Smart Education
+"National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD), Ministry of Social Justice & Empowerment.","""Simplifying Attendance during Examination & Evaluation process through Online tracking process.""",Software,NR1097,22,Smart Automation
+"National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD), Ministry of Social Justice & Empowerment.","""Surveillance of HRD student trainees in Campus & Hostel Campus to regulate In & Out Movements.""",Software,NR1098,31,Smart Automation
+"National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD), Ministry of Social Justice & Empowerment.","""To automate and compute the detection of possible vulnerability to Depression before its onset""",Software,NR1099,26,MedTech / BioTech / HealthTech
+North Eastern Cane and Bamboo Development Council (NECBDC).,Development of Dynamic website of NECBDC,Software,MG1100,36,Smart Automation
+North Eastern Cane and Bamboo Development Council (NECBDC).,Explaining the famous products of NER,Software,MG1101,9,Smart Automation
+North Eastern Cane and Bamboo Development Council (NECBDC).,lnformation regarding activities of various in Ministries / Department in NER,Software,MG1102,7,Smart Automation
+North Eastern Cane and Bamboo Development Council (NECBDC).,Skill Development training for unemployed youths of NER,Software,MG1103,11,Smart Automation
+"Department of Telecommunications (DoT), Ministry of Communications.",Solution to identify spoofed call received by General public.,Software,RK1104,6,Miscellaneous
+"Department of Sports (DoS), Ministry of Youth Affairs & Sports.",Prohibited substances and Therapeutic Use Exception (TUE) for sportspersons. TUE is granted if the drugs have been prescribed by an authorized doctor to the athlete.,Software,AK1105,23,Fitness & Sports
+"Department of Sports (DoS), Ministry of Youth Affairs & Sports.",Anti doping awareness cum sensitization through Gaming App,Software,AK1106,13,Fitness & Sports
+"Department of Sports (DoS), Ministry of Youth Affairs & Sports.",Promoting Fitness through Gamification,Software,AK1107,44,Fitness & Sports
+"Department of Sports (DoS), Ministry of Youth Affairs & Sports.",Use AR/VR to improve athlete performance,Software,AK1108,22,Fitness & Sports
+"Department of Sports (DoS), Ministry of Youth Affairs & Sports.",Wearable sensors for Sports Biomechanics Application,Hardware,AK1109,36,Fitness & Sports
+"Department of Sports (DoS), Ministry of Youth Affairs & Sports.",Creation of a GIS-based National Inventory of Sports Infrastructure,Software,AK1110,12,Fitness & Sports
+"Department of Sports (DoS), Ministry of Youth Affairs & Sports.",Digitalisation of the application process for sports infrastructure under Khelo India Scheme,Software,AK1111,23,Fitness & Sports
+"Central Water Commission (CWC), Ministry of Jal Shakti",Drought Information and Management,Software,RK1112,9,"Agriculture, FoodTech & Rural Development"
+"Central Water Commission (CWC), Ministry of Jal Shakti",Water Availability based Crop-specific,Software,RK1113,40,"Agriculture, FoodTech & Rural Development"
+"Central Ground Water Board (CGWB), Ministry of Jal Shakti",User friendly data visualization tool for interpretation of groundwater isotope data,Software,RK1114,13,"Agriculture, FoodTech & Rural Development"
+"Central Ground Water Board (CGWB), Ministry of Jal Shakti","Standalone desktop application for analysis, visualization and interpretation of hydro chemical data.",Software,RK1115,5,"Agriculture, FoodTech & Rural Development"
+"National Water Mission (NWM), Ministry of Jal Shakti",Use of digital technology or making physical prototype for micro irrigation system to improve Water Use Efficiency of Irrigation sector.,Hardware,RK1116,84,"Agriculture, FoodTech & Rural Development"
+"National Water Mission (NWM), Ministry of Jal Shakti",Need to develop digitally the dynamic model to integrate the impact of climate change (CC) indicators with assessment of vulnerability and adaptation at localized scale for agriculture sector,Software,RK1117,9,"Agriculture, FoodTech & Rural Development"
+"National Mission for Clean Ganga (NMCG), Ministry of Jal Shakti",Develop a digital platform for assimilating data of operational performance of existing STPs/ CETPs/ ETPs through creation of data exchange interface and flashing messages against defaults Problem Statements:,Software,RK1118,4,"Agriculture, FoodTech & Rural Development"
+Ministry of Chemicals and Fertilizers,Statistics and Monitoring Web Application to capture Online,Software,PN1119,7,"Agriculture, FoodTech & Rural Development"
+"Ministry of Micro, Small & Medium Enterprises (MSME).",IoT based sensors can be used to determine the Machine Runtime,Software,RK1120,18,Smart Automation
+"Ministry of Micro, Small & Medium Enterprises (MSME).",Developing Virtual Reality based solutions,Software,RK1121,19,Smart Education
+"Ministry of Micro, Small & Medium Enterprises (MSME).",Development of business models for collection and utilization of single use plastics and various other industrial wastes,Software,RK1122,19,Clean & Green Technology
+"Ministry of Micro, Small & Medium Enterprises (MSME).",Integration & Utilization of data-based being maintained by various Ministries/ Departments for better utilization of raw materials and production capacity.,Software,RK1123,5,Miscellaneous
+"Ministry of Micro, Small & Medium Enterprises (MSME).",Development of Technology for manufacturing of mind control BIONIC hand with a sense of touch,Hardware,RK1124,25,MedTech / BioTech / HealthTech
+"Ministry of Micro, Small & Medium Enterprises (MSME).",Uncontrolled growth of water hyacinth in lakes.,Hardware,RK1125,37,MedTech / BioTech / HealthTech
+"Ministry of Micro, Small & Medium Enterprises (MSME).","Disposal/Recycle of Covid-19 related items such as Mask, Sanitizer, face cover etc.",Hardware,RK1126,50,MedTech / BioTech / HealthTech
+"Ministry of Micro, Small & Medium Enterprises (MSME).",Water logging in almost all major cities despite having drainage system in place,Hardware,RK1127,51,Clean & Green Technology
+"Ministry of Micro, Small & Medium Enterprises (MSME).",App-Based Solution to provide market access to micro & small enterprises.,Software,RK1128,32,Clean & Green Technology
+"Ministry of Micro, Small & Medium Enterprises (MSME).",App-Based solution to identify & solve disease in plants/crops,Software,RK1129,76,"Agriculture, FoodTech & Rural Development"
+"Ministry of Ports, Shipping & Waterways","Smart fuel consumption monitoring system for tugs, boats & dredgers.",Software,AK1130,8,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways","Logistics cost optimization through data analytics on various data of PCS, Customs & GSTN",Software,AK1131,4,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",Automation of port processes to improve port handling efficiency and reduce errors,Hardware,AK1132,10,Smart Automation
+"Ministry of Ports, Shipping & Waterways",Technology solutions for decarbonization of maritime industry as per IMO CHG startegy,Hardware,AK1133,12,Clean & Green Technology
+"Ministry of Ports, Shipping & Waterways",Advance simulators for providing real-time situations training,Hardware,AK1134,11,Robotics and Drones
+"Ministry of Ports, Shipping & Waterways",Teechnology solutions for enhanced Maritime Security,Hardware,AK1135,26,Robotics and Drones
+"Ministry of Ports, Shipping & Waterways",Green Transformation of ports to achieve Net Zero Carbon Emissions,Hardware,AK1136,24,Clean & Green Technology
+"Ministry of Ports, Shipping & Waterways",Air Quality Index for Major Port,Hardware,AK1137,20,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",Creation of single source platform for vessel registration and sea farers license.,Software,AK1138,6,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",Common EDI Mode for all the Ports and Terminals,Software,AK1139,4,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",Common Gate In Process and Transport Module for all Ports and Terminal.,Software,AK1140,3,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways","Common Platform for Ports, Terminals and other Custodians.",Software,AK1141,3,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",Lack of uniform GIS system at Ports,Software,AK1142,5,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",Need for uniform Document Management System across Ports,Software,AK1143,6,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways","Standardization, Integration of Ports documents and processes",Software,AK1144,4,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",Adoption of Technology and best practices,Software,AK1145,5,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways","Detecting Covid-19 (using face recognition) suspects in crowd, at the school/office Building entrance along with their attendance and other alerts.",Software,AK1146,33,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",Improvement of Portal for Asset and Navigational Information (PANI) Portal.,Software,AK1147,3,Transportation & Logistics
+"Ministry of Ports, Shipping & Waterways",IMPROVEMENT OF CAR-D PORTAL,Software,AK1148,5,Transportation & Logistics
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To develop positive emotions among students across all age group for holistic development and well-being.,Software,KH1149,14,Smart Education
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).","To promote self-care among students and to enhance the overall well-being including mental, physical and social health.",Software,KH1150,26,Smart Education
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To develop and maintain a healthy digital routine for the overall wellbeing of self and others.,Software,KH1151,6,Miscellaneous
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To develop mindfulness and promote well-being among students across ages.,Software,KH1152,7,Miscellaneous
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To develop assertiveness and negotiation to deal with life’s challenges effectively,Software,KH1153,8,Smart Education
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To strengthen the skills for managing negative emotions of self and others effectively.,Software,KH1154,9,Miscellaneous
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To maintain and enjoy healthy relationships with others.,Software,KH1155,9,Miscellaneous
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To enhance concentration among students for better performance in the given task.,Software,KH1156,24,Smart Education
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To develop self-awareness to realize the full potential for holistic functioning of students across age groups.,Software,KH1157,8,Miscellaneous
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To develop a sense of accomplishment to make life more meaningful / purposeful.,Software,KH1158,9,Smart Education
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To develop collaboration and cooperation among students across all age groups to increase group bonding and enhance social skills such as pro social behavior and good interpersonal relationships.,Software,KH1159,11,Miscellaneous
+"National Council of Educational Research and Training (NCERT), Department of School Education & Literacy (DoSEL).",To develop one’s ability to manage time for relevant aspects of one’s life,Software,KH1160,24,Smart Education
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Device an alternatives method for OTP based authentication in areas with weak mobile signal.,Software,NR1162,31,Miscellaneous
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Developing a solution for the Identification and rendering of human faces in videos on real time the basis,Software,NR1163,33,Smart Automation
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Device an E-waste management system technologically efficient and eco friendly.,Software,NR1164,15,Smart Automation
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.","Solution to Identify Drones through CCTV feeds installed at houses, roads etc.",Software,NR1165,43,Miscellaneous
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Develop an application for Natural Language Processing (NLP) technology solutions for mass-effective conceptual learning and education in vernacular languages (in mother-tongues),Software,NR1166,12,Smart Education
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Developing a solution for Gesture enabled commands for operating Laptops/PCs for frequently used operations on daily basis.,Software,NR1167,72,Smart Automation
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Develop Solution/Application to regulate Private health care sector in India from exploiting people during medical emergencies and pandemic situations.,Software,NR1168,96,MedTech / BioTech / HealthTech
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Device an application to monitor Humans health issues due to increased usage of pesticides in agriculture and unethical means adopted by food processing industries,Software,NR1169,13,"Agriculture, FoodTech & Rural Development"
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Jelly Bots - develop a device/solution to save he life of prople drowning at beaches in tourist destination.,Software,NR1170,9,Disaster Management
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Develop a drone based Ambulances system to avert the challenges faced on ground during golden hour reaction time.,Hardware,NR1171,77,Robotics and Drones
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Develop a system to enable Speed reading based on Mindfulness meditation,Software,NR1172,8,Miscellaneous
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Speed measurement of autonomous underwater vehicles,Software,NR1173,7,Smart Automation
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Develop a smart system for inferences and suggestive approach for the cases with similar dependencies during judgement.,Software,NR1174,10,Miscellaneous
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Develop a simple but effective Tele-consultation application for farmers to fecilitate agriculture,Software,NR1175,44,"Agriculture, FoodTech & Rural Development"
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Develop a monitoring system for the Electrical Grid in the obscure terrain.,Software,NR1176,8,Disaster Management
+"Defence Research and Development Organisation (DRDO), Ministry of Defence.",Develop a smart application to Monitor the health of roads and trigger the reports to concern authorities for maintenance,Software,NR1177,31,Transportation & Logistics
+"Startup India Section, Department for Promotion of Industry and Internal Trade (DPIT), Ministry of Commerce and Industry.",Develop an application for the effective mentorship of the entrepreneurial activities in country.,Software,KK1178,20,Miscellaneous
+"Startup India Section, Department for Promotion of Industry and Internal Trade (DPIT), Ministry of Commerce and Industry.",Develop an application to aid end users to get Geographic Indicators for their product.,Software,KK1179,6,"Agriculture, FoodTech & Rural Development"
+"Startup India Section, Department for Promotion of Industry and Internal Trade (DPIT), Ministry of Commerce and Industry.",Develop a platform to support One District One Product (ODOP) initiative,Software,KK1180,26,"Agriculture, FoodTech & Rural Development"
+"Startup India Section, Department for Promotion of Industry and Internal Trade (DPIT), Ministry of Commerce and Industry.",Develop an application to facilitate IPR filing for the grassroots community.,Software,KK1181,7,"Agriculture, FoodTech & Rural Development"
+"Startup India Section, Department for Promotion of Industry and Internal Trade (DPIT), Ministry of Commerce and Industry.",Shared usage of workshops and labs by all Educational Institutions at National Level,Software,KK1182,22,Smart Education
+"Startup India Section, Department for Promotion of Industry and Internal Trade (DPIT), Ministry of Commerce and Industry.",Deveolp an apllication to Ensure security in digital payments while promoting ease of doing business payments,Software,KK1183,8,Miscellaneous
+"Startup India Section, Department for Promotion of Industry and Internal Trade (DPIT), Ministry of Commerce and Industry.","Development of technologies, in mold making, electronics and specific paints.",Software,KK1184,2,Miscellaneous
+"Dairy Division, Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry & Dairying",Quality assurance & traceability of milk supplied by unorganized sector,Software,DV1185,12,"Agriculture, FoodTech & Rural Development"
+"Dairy Division, Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry & Dairying",Milk pasteurization other than heat treatment,Hardware,DV1186,37,"Agriculture, FoodTech & Rural Development"
+"Dairy Division, Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry & Dairying",Develop an innovative solution to conversion of excess milk to usable products,Hardware,DV1187,27,"Agriculture, FoodTech & Rural Development"
+"Dairy Division, Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry & Dairying",Portable & Smart Packing system with quality check framework,Hardware,DV1188,28,"Agriculture, FoodTech & Rural Development"
+"Swachh Bharat Mission (Grameen), Department of Drinking Water & Sanitation, Ministry of Jal Shakti",Waste Management System,Hardware,ML1189,125,Clean & Green Technology
+"Swachh Bharat Mission (Grameen), Department of Drinking Water & Sanitation, Ministry of Jal Shakti",Rapid decomposition of waste in rural areas,Hardware,ML1190,48,Miscellaneous
+Volvo,Fault tracing of wiring harnesses -Could this be combined with AR,Hardware,SK1204,28,Smart Automation
+Volvo,How to avoid median accidents : Invisible center medians cause a huge number of accidents in India.,Hardware,SK1205,118,Smart Vehicles
+Volvo,Solutions to detect air quality inside the cabin and improve it.,Hardware,SK1206,105,Transportation & Logistics
+"Department of Post, Ministry of Post",Digital Access Code generation and use for Address tracking,Software,AK1207,20,Smart Automation
+"eCourts, Department of Justice, Ministry of Law & Justice","""Require Automated Smart Data Collection System. """,Software,AK1209,7,Miscellaneous
+"eCourts, Department of Justice, Ministry of Law & Justice",Monitoring & optimization of Bandwidth provisioned to the court complexes,Software,AK1210,4,Miscellaneous
+"eCourts, Department of Justice, Ministry of Law & Justice",Devlop a Software for Categorization of cases.,Software,AK1211,24,Miscellaneous
+"eCourts, Department of Justice, Ministry of Law & Justice",Devlop a Software for Keyword based retrieval of judgements,Software,AK1212,17,Miscellaneous
+"eCourts, Department of Justice, Ministry of Law & Justice",Training of all levels of court staff on PAN India basis,Software,AK1213,6,Miscellaneous
+"eCourts, Department of Justice, Ministry of Law & Justice",Composite database for cases filed at all levels of judiciary and tribunals,Software,AK1214,6,Miscellaneous
+"eCourts, Department of Justice, Ministry of Law & Justice",Devlop a Software for Data Security & Data Secrecy.,Software,AK1215,10,Miscellaneous
+"NIFTEM Thanjavur ,Ministry of Food Processing Industries (MoFPI)",IoT enabled risk monitoring svstem in Cold Suppll Chain,Hardware,MA1216,45,Smart Automation
+"NIFTEM Thanjavur ,Ministry of Food Processing Industries (MoFPI)",Block chain application for tagging farm produces,Hardware,MA1217,22,Blockchain & Cybersecurity
+"NIFTEM Thanjavur ,Ministry of Food Processing Industries (MoFPI)",To provide solution for entire year commercial solar drying of food commodities.,Hardware,MA1218,34,Clean & Green Technology
+"NIFTEM Thanjavur ,Ministry of Food Processing Industries (MoFPI)",smart and sustainable supply chain,Hardware,MA1219,18,Clean & Green Technology
+"Department of Food & Public Distribution, Ministry of Consumer Affairs Food and Public Distribution","""Scientific method for determining age Agriculture and Food & of boiled rice """,Hardware,VA1220,18,"Agriculture, FoodTech & Rural Development"
+"Department of Food & Public Distribution, Ministry of Consumer Affairs Food and Public Distribution","Artificial Intelligence enabled Agriculture, Food and Public Robotic stacker for mechanized Distribution Loading/Unloading of foodgrain",Hardware,VA1221,42,"Agriculture, FoodTech & Rural Development"
+"eCourts, Department of Justice, Ministry of Law & Justice","Department of Justice, Ministry of law & Justice.",Software,AK1222,6,Miscellaneous
+"Policy Planning Cell, Ministry of Information & Broadcasting","An online website and app based solution that compares various requirements for Government jobs, as are advertised in the Employment News weekly published by Publications Division with various fields (such as age, qualifications, etc.) of the Curriculum Vitae of job-seekers across the country, and provides them real-time updates on available Government jobs. The mechanism may be expanded to cover all Government jobs advertised in States and UTs in future.",Software,NS1223,37,Smart Automation
+"Policy Planning Cell, Ministry of Information & Broadcasting","An AI/ML based solution for flagging of false information related to the Union Government on online platforms, including social media platforms. Such a system may utilize the authentic information available through official sources such as documents, press releases, etc.",Software,NS1224,23,Blockchain & Cybersecurity
+"Policy Planning Cell, Ministry of Information & Broadcasting","A statistical model for objective determination of outdoor advertising rates at key locations in India on the basis of factors such as footfall/viewership, demographic profile of the target audience at a particular location, existing rates, etc.",Software,NS1225,6,Smart Automation
+"Policy Planning Cell, Ministry of Information & Broadcasting","Dashboard for real-time indication of the online media (on websites) and social media (on social media platforms) activities of the media units. Such a dashboard may provide quantitative information such as real-time statistical summaries in terms of engagements, posts, etc. on social media; and qualitative information such as the range of key topics on which information is disseminated.",Software,NS1226,11,Smart Automation
+"Policy Planning Cell, Ministry of Information & Broadcasting","An Augmented Reality (AR) based solution for online accessibility of key events such as Republic Day parade, Independence Day celebrations, film festivals, exhibitions, sound and light shows, etc. as immersive experiences for the citizens.",Software,NS1227,6,Smart Automation
+"Policy Planning Cell, Ministry of Information & Broadcasting","An online tracking mechanism for identification of websites/apps infringing copyrights of the content producers such as broadcasters, OTT platforms, etc.",Software,NS1228,9,Blockchain & Cybersecurity
+"Policy Planning Cell, Ministry of Information & Broadcasting",A mobile app for PIB with engaging features for direct outreach to the people.,Software,NS1229,15,Smart Automation
+"Policy Planning Cell, Ministry of Information & Broadcasting","An AI/ML based solution that generates short summaries of press releases for easy and more targeted dissemination of information to the people. Such a TL,DR (Too Long, Didn’t Read) software may be integrated in an app-based solution.",Software,NS1230,23,Smart Automation
+"Policy Planning Cell, Ministry of Information & Broadcasting","A solution for identification of India-based news websites, and YouTube based news channels.",Software,NS1231,6,Blockchain & Cybersecurity
+"Policy Planning Cell, Ministry of Information & Broadcasting",A solution for identification of news items and videos on the internet which are inimical to the sovereignty of India.,Software,NS1232,7,Blockchain & Cybersecurity
+Autodesk India Pvt. Ltd.,Smart Manufacturing,Hardware,AV1235,41,Smart Automation
+Bajaj Finserv Health,"Build an application that can calculate SpO2, Blood Pressure, Stress or any other possible body vitals using a Smartphone. Applications that can help do screening for any conditions for people to take a decision to do a Dr consultation are also welcome.",Software,SS1236,40,MedTech / BioTech / HealthTech
+Bajaj Finserv Health,Gamification for Awareness and Coverage Need for comprehensive Health Insurance that covers OPD and Lab,Software,SS1237,8,MedTech / BioTech / HealthTech
+"Communication and Information service, MHA",Require Crime Predictive model/tool for hotspot mapping,Software,RV1238,16,Blockchain & Cybersecurity
+"Communication and Information service, MHA",Layering of Bank accounts,Software,RV1239,7,Miscellaneous
+"Communication and Information service, MHA",Creating Application for Mobile Phones,Software,RV1240,18,Blockchain & Cybersecurity
+"NATGRID, MHA","Build a solution around generation of short and appropriate abstraction based summary from articles from web and local documents on a specific domain e.g. political, sports of current affairs. It is suggested to avoid generating extractive summarization.",Software,RV1241,13,Blockchain & Cybersecurity
+"NATGRID, MHA","Build a solution that shall enable authentication using fingerprint, such as the one available on some of the smart phones that is able to determine fake or real fingerprint.",Software,RV1242,18,Blockchain & Cybersecurity
+"NATGRID, MHA",Build a solution that is able to undertake Optical Character Recognition (OCR) on handwritten text in Hindi language. The result should be the equivalent text typed in Hindi with over ~70% accuracy. Solution must address issues such as non-standard ways of writing and poor handwriting.,Software,RV1243,17,Blockchain & Cybersecurity
+"NATGRID, MHA",Develop an IT enabled framework/mechanism through which a person can give tip-off about any suspicious activity/ crime to the authorities.,Software,RV1244,48,Blockchain & Cybersecurity
+"ITBP, MHA","""Devlop an System to identity transgression though sensors & electronics devices, Camera etc. """,Hardware,RV1245,21,Blockchain & Cybersecurity
+"ITBP, MHA","""Require Drones based surveillance of the Open border in Vulnerable Gaps and areas """,Hardware,RV1246,72,Robotics and Drones
+"ITBP, MHA",Infrastructurel Accommodation/Electricity! Potable Water at forward locations,Hardware,RV1247,11,Disaster Management
+"ITBP, MHA",Good quality of food/fresh food which can be stored using latest technology,Hardware,RV1248,17,Disaster Management
+"ITBP, MHA",All weather good quality clothing for troops,Hardware,RV1249,7,Disaster Management
+"ITBP, MHA",Devlop a Ready to use first aid kits,Hardware,RV1250,19,Disaster Management
+"ITBP, MHA",Indigenous monitoring receiver,Hardware,RV1251,14,Smart Automation
+"Cyber Crime Unit, Special Cell, Delhi Police, MHA","Develop a Mobile App through which a citizen can check whether an unattended child is a missing child from 'Track the missing child' database of WCD Ministry using Facial Recognition Software of Delhi Police """,Software,RV1252,53,Blockchain & Cybersecurity
+"Cyber Crime Unit, Special Cell, Delhi Police, MHA","Al based solution for predicting major law & order incidents: The solution should be able to use inputs such as: PCR Call key words, Time of call, location, month, calendar of festivals/political events, community involved, distribution of similar PCR Calls, etc. to allow Command Room officers to icators of serious law & order issue at the very initial stages for timely intervention",Software,RV1253,9,Blockchain & Cybersecurity
+"Cyber Crime Unit, Special Cell, Delhi Police, MHA","""Anti-Drone Instant Deployment Discreet Shield for VIP Protection in public places """,Hardware,RV1254,39,Robotics and Drones
+"Cyber Crime Unit, Special Cell, Delhi Police, MHA","""Bluetooth based device for integrating Wireless WT Sets with Smart phones through an App. """,Software,RV1255,12,Smart Automation
+"Cyber Crime Unit, Special Cell, Delhi Police, MHA","""Speech to Text App customized for police functioning in different languages. """,Software,RV1256,34,Blockchain & Cybersecurity
+"Cyber Crime Unit, Special Cell, Delhi Police, MHA","""Portable Stabilized Buoyancy Platform for aerial surveillance of large public arrangements. """,Hardware,RV1257,12,Blockchain & Cybersecurity
+"Cyber Crime Unit, Special Cell, Delhi Police, MHA","""Secure wireless controller for hand-held remote operation of Traffic signals in peak hours """,Hardware,RV1258,94,Smart Vehicles
+"Cyber Crime Unit, Special Cell, Delhi Police, MHA","Technology demonstration of digital stamping of electronic communication/message to know its origin, date, time and spread",Software,RV1259,16,Blockchain & Cybersecurity
+"Dell Technologies, Bangalore, India.",Interpreting Doctors notes using handwriting recognition and Deep Learning techniques,Software,UP1261,51,MedTech / BioTech / HealthTech
+"Dell Technologies, Bangalore, India.",Conversational Chatbot Builder - Smarter Virtual Assistants with Domain specific AI,Software,UP1262,40,Smart Automation
+GE Healthcare,Design and develop a wireless pod and disposable patch that is gentler on a newborn’s fragile skin and allow for more skin-to-skin contact with the parent.,Hardware,UP1263,21,MedTech / BioTech / HealthTech
+"Department of Food & Public Distribution, Ministry of Consumer Affairs Food and Public Distribution",Optimal design of Silo for bulk storage of Rice,Software,VA1264,29,"Agriculture, FoodTech & Rural Development"
